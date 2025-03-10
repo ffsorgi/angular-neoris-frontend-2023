@@ -1,0 +1,44 @@
+# Node modules
+/node_modules/
+
+# Build output
+/dist/
+/out-tsc/
+
+# System files
+/.angular/
+.idea/
+/.vscode/
+
+# IDEs
+*.suo
+*.user
+*.userosfile
+*.sln
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+/.env
+/.env.local
+/.env.*.local
+
+# TypeScript compilation
+*.tsbuildinfo
+
+# Angular specific
+.angular-cache/
+
+# Debug folder
+/debug/
+
+# Package manager files
+/package-lock.json
+/yarn.lock
